@@ -1,0 +1,21 @@
+Facture N°: 1
+Nom du client: John Doe
+Date: 2024-10-12
+
+Articles:
+-      Nom: Pain Baguette
+     Marque: Boulangerie
+     Prix HT: 10,00
+     Unité: PIECE
+     Prix TTC: 12,00
+     Date d'Expiration: 2024-10-19
+     Avec Sel: Non | Prix TTC: 12.0
+-      Nom: Lait 1L
+     Marque: Laiterie
+     Prix HT: 8,00
+     Unité: LITRE
+     Prix TTC: 8,24
+     Date d'Expiration: 2024-10-19
+     Matière Grasse: Demi-écrémé | Prix TTC: 8.24
+
+Montant total: 20.240000000000002
